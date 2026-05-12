@@ -31,3 +31,6 @@ const Orders = [
 		productName: "Regulator",
 		productNumber: "22821",
 		paymentStatus: "Paid",
+		shipping: "Delivered",
+	},
+];
